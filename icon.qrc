@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/1o.png</file>
+        <file>icon/bmpjpegpng.png</file>
+        <file>icon/bz2zipgz.png</file>
+        <file>icon/c.png</file>
+        <file>icon/cpp.png</file>
+        <file>icon/del.png</file>
+        <file>icon/dir.png</file>
+        <file>icon/doc.png</file>
+        <file>icon/down.ico</file>
+        <file>icon/enter.png</file>
+        <file>icon/file.png</file>
+        <file>icon/h.png</file>
+        <file>icon/jpg.png</file>
+        <file>icon/left .ico</file>
+        <file>icon/left.ico</file>
+        <file>icon/left.png</file>
+        <file>icon/lock.png</file>
+        <file>icon/mp3.png</file>
+        <file>icon/right.ico</file>
+        <file>icon/right.png</file>
+        <file>icon/set.png</file>
+        <file>icon/Thumbs.db</file>
+        <file>icon/txt.png</file>
+        <file>icon/up.ico</file>
+        <file>icon/www.easyicon.net.txt</file>
+    </qresource>
+</RCC>
